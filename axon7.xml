@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>PureFusionOS</RomName>
-<VersionName>purefusion_axon7-7.1.2-20171009_001245-OFFICIAL</VersionName>
-<VersionNumber type="string">20171009_001245</VersionNumber>
-<DirectUrl>https://androidbuilds.spryservers.net/purefusion/roms/axon7/release/purefusion_axon7-7.1.2-20171009_001245-OFFICIAL.zip</DirectUrl>
+<VersionName>purefusion_axon7-7.1.2-20171113_160754-OFFICIAL</VersionName>
+<VersionNumber type="string">20171113_160754</VersionNumber>
+<DirectUrl>https://androidbuilds.spryservers.net/purefusion/roms/axon7/release/purefusion_axon7-7.1.2-20171113_160754-OFFICIAL.zip</DirectUrl>
 <Android>7.1.2</Android>
-<CheckMD5>5f385e22f1f4621ea003f6e786c7d4a9</CheckMD5>
-<FileSize type="integer">466014471</FileSize>
+<CheckMD5>e6b6349c5b2cc65ee50c82b24192ab34</CheckMD5>
+<FileSize type="integer">445268429</FileSize>
 <Developer><![CDATA[sc4ryb3ar]]></Developer>
 <WebsiteURL>https://forum.xda-developers.com/axon-7/development/rom-purefusionos-official-t3670580</WebsiteURL>
-<Changelog>https://download.purefusionos.com/roms/axon7/release/purefusion_axon7-7.1.2-20171009_001245-OFFICIAL_changelog.txt</Changelog>
+<Changelog>https://download.purefusionos.com/roms/axon7/release/purefusion_axon7-7.1.2-20171113_160754-OFFICIAL_changelog.txt</Changelog>
 <AddonCount>2</AddonCount>
 <AddonsURL>https://raw.githubusercontent.com/PureFusionOS/PureFusionOTA_SERVER/n-mr2/addons/axon7/addons.xml</AddonsURL>
 </ROM>
-commit:a81cea
-Add axon7.xml
-
-Change-Id: Ib4dd7c44866fd2705fefcd0a1aa6f828960cd1e9
